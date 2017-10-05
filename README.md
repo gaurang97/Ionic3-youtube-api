@@ -1,14 +1,9 @@
-This is a starter template for [Ionic](http://ionicframework.com/docs/) projects.
+this is the project that uses YOUTUBE APIv3 in IONIC
 
-## How to use this template
-
-*This template does not work on its own*. The shared files for each starter are found in the [ionic2-app-base repo](https://github.com/ionic-team/ionic2-app-base).
-
-To use this template, either create a new ionic project using the ionic node.js utility, or copy the files from this repository into the [Starter App Base](https://github.com/ionic-team/ionic2-app-base).
-
+## To get the API key create the app in google developers console and select the youtube api v3 to generate the credentials(KEY).
+  
 ### With the Ionic CLI:
 
-Take the name after `ionic2-starter-`, and that is the name of the template to be used when using the `ionic start` command below:
 
 ```bash
 $ sudo npm install -g ionic cordova
